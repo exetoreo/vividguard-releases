@@ -11,6 +11,6 @@ Download the installer below, run it, then enter the license key from your order
 
 [Download VividGuard-Setup-0.1.0.exe](https://github.com/exetoreo/vividguard-releases/raw/main/VividGuard-Setup-0.1.0.exe)
 
-SHA-256: `7076776c9615f1d7badef408335ecdbd781b3b0a5276b9c6975e3bf7d6334cf7`
+SHA-256: `b62e55e6ce8813f4010fbff5ef8327ec6ec905d7af1756ea4ff7d1214988df97`
 
 Windows may show "Windows protected your PC" because the installer isn't code-signed yet: select **More info** then **Run anyway**.
